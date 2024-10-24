@@ -1,0 +1,6 @@
+framework module Route_UIKit {
+  umbrella header "Route-UIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

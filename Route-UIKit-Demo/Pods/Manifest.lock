@@ -1,0 +1,16 @@
+PODS:
+  - Route-UIKit (0.0.1)
+
+DEPENDENCIES:
+  - Route-UIKit (from `../`)
+
+EXTERNAL SOURCES:
+  Route-UIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Route-UIKit: 14d86dfcd624b5e3edce8eaf43f01773567ad8e4
+
+PODFILE CHECKSUM: b1f9ede34bc5170e0aa740e88459269f8cc10617
+
+COCOAPODS: 1.14.2
